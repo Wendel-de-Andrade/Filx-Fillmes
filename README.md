@@ -1,7 +1,9 @@
-# Flix-Filmes
+# Flix-Filmes 🎬
+
+O Flix-Filmes é um projeto compacto que oferece a visualização dos últimos filmes lançados, proporcionando detalhes como sinopse, avaliação, opção de salvar um filme e assistir ao trailer. O desenvolvimento deste projeto envolveu o consumo da API do TheMovieDB.
 
 ## Descrição do Projeto
-Flix-Filmes é um projeto que consome a API do themoviedb e traz os últimos filmes.
+O Flix-Filmes é uma aplicação que consome a API do themoviedb para trazer as informações mais recentes sobre os filmes lançados. Com uma interface intuitiva, os usuários podem explorar, salvar e obter informações detalhadas sobre os filmes.
 
 ## Instalação
 1. Clone o repositório para a sua máquina local.
